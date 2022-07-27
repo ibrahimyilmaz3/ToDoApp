@@ -1,8 +1,13 @@
 package com.imgy.todo_app
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.imgy.todo_app.databinding.ActivityMainBinding
+import com.imgy.todo_app.databinding.ActivityMainBinding.inflate
+import com.imgy.todo_app.databinding.FragmentHomeBinding.inflate
+import com.imgy.todo_app.databinding.FragmentIntroBinding.inflate
+import com.imgy.todo_app.fragments.HomeFragment
+
 
 class MainActivity : AppCompatActivity() {
 

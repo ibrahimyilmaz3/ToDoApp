@@ -6,7 +6,7 @@
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/font-v26/tv_header_font.xml" value="0.39375" />
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/font/tv_header_font.xml" value="0.39375" />
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/layout/activity_main.xml" value="0.35625" />
-        <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/layout/fragment_home.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Users/Ibrahim/AndroidStudioProjects/todo_app/app/src/main/res/layout/fragment_intro.xml" value="0.25" />
       </map>
     </option>
@@ -16,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="1.25" />
+      </ProjectState>
+    </option>
   </component>
 </project>
