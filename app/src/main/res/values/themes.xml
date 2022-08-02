@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.Todo_app" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/gray</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -13,4 +13,12 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    
+    <style name="toolbarStyle" parent="Widget.AppCompat.ActionBar">
+    <item name="titleTextColor">@android:color/white</item>
+    <item name="subtitleTextColor">@android:color/white</item>
+    <item name="android:textSize">20sp</item>
+        <item name="subtitleTextAppearance">@style/TextAppearance.AppCompat.Body2</item>
+        <item name="titleTextAppearance">@style/TextAppearance.AppCompat.Title</item>
+</style>
 </resources>
